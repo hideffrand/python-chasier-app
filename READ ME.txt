@@ -1,0 +1,28 @@
+SALERO BASAMO_Cashier v.1.0
+
+Requirement
+
+receipt.txt should be:
+- all margin 0
+- font size 8
+- orientation potrait
+
+
+How to run?
+
+Open SALERO BASAMO_Cashier v.1.0.py file.
+Hit run code using play button (VS Code) or type "python SALERO BASAMO_Cashier v.1.0.py" on terminal.
+
+
+How to use?
+
+Open SALERO BASAMO_Cashier v.1.0.py file and run it.
+Insert orders by choosing menu_name and quantity and click "Input" button.
+**note: make sure each order inserted by looking at status. It will change to a random numbers when order has successfully inserted.
+Once all orders inserted, click "Cetak struk" button.
+Status will display "------Done-----".
+Print receipt using CTRL+P shortcut and click "Print" button.
+
+
+@2023 - SALERO BASAMO | All rights reserved
+More information, hideffrand@gmail.com
